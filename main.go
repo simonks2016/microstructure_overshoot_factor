@@ -1,4 +1,4 @@
-package main
+package MicrostructureOvershootFacto
 
 import (
 	"strings"
